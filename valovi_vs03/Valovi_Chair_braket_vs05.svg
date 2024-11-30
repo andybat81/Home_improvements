@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- ARC is A xrad yrad xrotation-degrees largearc sweep end_x end_y -->
+
+<svg
+   enable-background="new 0.0000 0.0000 48.0008 24.0004"
+   height="250mm"
+   width="655mm"
+   version="1.1"
+   viewBox="0 0 655 250"
+   x="0.0000in"
+   y="0.0000in"
+   shaper:sketchupaddin="2.1.0"
+   id="svg159"
+   sodipodi:docname="Valovi_Chair_braket_vs05.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper">
+  <metadata
+     id="metadata165">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>VC4 layout cut profile
+</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs163" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     id="namedview161"
+     showgrid="false"
+     units="mm"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.91369444"
+     inkscape:cx="1257.532"
+     inkscape:cy="344.20698"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg159"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <title
+     id="title133">VC4 layout cut profile
+</title>
+  <desc
+     id="desc135">Shaper cut profile from Sketchup model VC4 layout
+</desc>
+  <path
+     d="m 105.56881,203.18033 v -30.36795 l 0.0964,-1.37838 0.1192,-0.6816 0.37384,-1.32955 0.55163,-1.26782 0.71927,-1.18053 0.87397,-1.07249 1.01322,-0.94397 1.13165,-0.79723 0.60337,-0.337 1.27089,-0.55282 1.33278,-0.3704 1.37412,-0.18976 9.66769,-0.005 v 18.00524 l -0.32742,0.36509 -0.33783,0.58116 -0.20796,0.64036 -0.0685,0.66616 0.0685,0.6687 0.20796,0.64036 0.33783,0.58116 0.32742,0.3833 0.66779,0.51183 0.61604,0.27274 0.65739,0.14169 h 0.67539 l 0.65738,-0.14169 0.61605,-0.27274 0.54655,-0.39595 0.10398,-0.11638 h 8.89687 l 0.10398,0.11638 0.54656,0.39595 0.61604,0.27274 0.65739,0.14169 h 0.67539 l 0.65739,-0.14169 0.61604,-0.27274 0.54402,-0.39595 0.45119,-0.49893 0.33782,-0.58116 0.20797,-0.64036 0.0685,-0.66869 -0.0685,-0.66617 -0.20797,-0.64036 -0.33782,-0.58116 -0.32743,-0.36509 V 162.6956 l 14.05032,-0.008 55.39727,-9.42314 55.90771,-5.67084 56.16552,-1.89552 56.16554,1.89552 55.91028,5.67084 55.39725,9.42314 h 14.05298 v 18.02325 l -0.32996,0.36509 -0.33504,0.58116 -0.20797,0.64036 -0.071,0.66617 0.071,0.66869 0.20797,0.64036 0.33504,0.58116 0.45119,0.49893 0.54655,0.39595 0.61351,0.27249 0.65992,0.14169 h 0.67286 l 0.65992,-0.14169 0.61604,-0.27249 0.54402,-0.39595 0.10652,-0.11639 h 8.89425 l 0.10652,0.11639 0.54402,0.39595 0.61605,0.27249 0.65738,0.14169 h 0.67539 l 0.65739,-0.14169 0.61604,-0.27249 0.54402,-0.39595 0.45373,-0.49893 0.33528,-0.58116 0.20797,-0.64036 0.0685,-0.66869 -0.0685,-0.66617 -0.20797,-0.64036 -0.33528,-0.58116 -0.32996,-0.36509 V 162.6876 l 9.64192,0.0206 0.65993,0.0658 1.30462,0.25705 1.25542,0.42682 0.6059,0.27249 1.14992,0.66364 1.05177,0.80507 0.4872,0.45262 0.87398,0.99533 0.38677,0.54017 0.66246,1.14713 0.51054,1.22405 0.34289,1.27819 0.17246,1.31412 0.0232,31.02891 -0.0964,1.37838 -0.28101,1.35282 -0.21051,0.66086 -0.55162,1.26781 -0.71927,1.18053 -0.41771,0.55029 -0.94626,1.01076 -1.0751,0.87186 -1.1834,0.71753 -1.27089,0.55029 -0.66246,0.20747 -1.35357,0.28286 -0.69087,0.0683 -26.50755,0.0232 -60.33168,-11.22854 -60.99935,-6.76385 -61.33198,-2.25809 -61.33193,2.25809 -60.99678,6.76385 -60.33421,11.22854 -26.47667,-0.0206 -1.3173,-0.17204 -1.2813,-0.3446 -1.22701,-0.50652 -1.14992,-0.66085 -1.05456,-0.8076 -0.93839,-0.93612 -0.80702,-1.04922 -0.66525,-1.14966 -0.508,-1.22152 -0.19276,-0.6353 -0.25767,-1.29868 z"
+     shaper:pathType="exterior"
+     shaper:cutDepth="0.7087"
+     id="path153"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.0997298;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.997298;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1"
+     width="654.0224"
+     height="249.02238"
+     x="0.47896394"
+     y="0.47896394" />
+</svg>
